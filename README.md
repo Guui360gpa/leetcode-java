@@ -10,7 +10,6 @@ Soluções dos exercícios do [LeetCode](https://leetcode.com/) implementadas em
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 | **Total** | **3** |
-## ✅ Convenções
 
 ## 📄 Licença
 
