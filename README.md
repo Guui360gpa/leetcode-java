@@ -1,9 +1,5 @@
 # 🧠 LeetCode em Java
 
-![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
-![Build](https://github.com/SEU_USUARIO/leetcode-java/actions/workflows/maven.yml/badge.svg)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 Soluções dos exercícios do [LeetCode](https://leetcode.com/) implementadas em Java, organizadas por tópico, com testes unitários (JUnit 5) e integração contínua via GitHub Actions.
 
 ## 📊 Progresso
